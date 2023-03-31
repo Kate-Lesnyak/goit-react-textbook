@@ -1,5 +1,5 @@
-import css from './Button.module.css';
 import clsx from 'clsx';
+import css from './Button.module.css';
 
 export const Button = ({
   selected = false,
@@ -9,7 +9,9 @@ export const Button = ({
 }) => {
   return (
     <button
-      className={clsx(css.btn, { [css.isSelected]: selected })}
+      className={clsx(css.btn, {
+        [css.isSelected]: selected,
+      })}
       type={type}
       {...otherProps}
     >
