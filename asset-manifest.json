@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goit-react-textbook-redux/static/css/main.5763847e.css",
-    "main.js": "/goit-react-textbook-redux/static/js/main.57675816.js",
+    "main.js": "/goit-react-textbook-redux/static/js/main.332c1d33.js",
     "index.html": "/goit-react-textbook-redux/index.html",
     "main.5763847e.css.map": "/goit-react-textbook-redux/static/css/main.5763847e.css.map",
-    "main.57675816.js.map": "/goit-react-textbook-redux/static/js/main.57675816.js.map"
+    "main.332c1d33.js.map": "/goit-react-textbook-redux/static/js/main.332c1d33.js.map"
   },
   "entrypoints": [
     "static/css/main.5763847e.css",
-    "static/js/main.57675816.js"
+    "static/js/main.332c1d33.js"
   ]
 }
